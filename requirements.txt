@@ -1,0 +1,5 @@
+# Do not delete this file, it is used by Azure Functions
+azure-functions
+psycopg2-binary
+python-dotenv
+requests
